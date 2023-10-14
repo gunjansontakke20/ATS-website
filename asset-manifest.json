@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ATS-website/static/css/main.93c2d99c.css",
+    "main.js": "/ATS-website/static/js/main.25e8f8f7.js",
+    "static/media/profile.jpg": "/ATS-website/static/media/profile.7cb864314906aacce42a.jpg",
+    "static/media/art.jpg": "/ATS-website/static/media/art.f10e2cb1ef26943f87e8.jpg",
+    "static/media/pic1.jpg": "/ATS-website/static/media/pic1.edfc27017ec365b0b5e8.jpg",
+    "index.html": "/ATS-website/index.html",
+    "main.93c2d99c.css.map": "/ATS-website/static/css/main.93c2d99c.css.map",
+    "main.25e8f8f7.js.map": "/ATS-website/static/js/main.25e8f8f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c2d99c.css",
+    "static/js/main.25e8f8f7.js"
+  ]
+}
